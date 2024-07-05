@@ -3,7 +3,7 @@ An assignment from MyTokri on internshala where the objective is to fetch data f
 
 # Want to Run the Code
 
-## clone the code
+## Clone the repo
 git clone https://github.com/Hamid6426/api-data-fetch
 
 ## Install npm
