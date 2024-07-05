@@ -1,3 +1,7 @@
 https://bootcamp.uxdesign.cc/fetch-data-from-a-sample-api-and-render-it-in-a-card-using-javascript-and-css-step-by-step-guide-332bd4b70346
+
+https://codepen.io/gauravprof27/pen/ExGXWXW
+
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-fetch-and-promises-by-building-an-fcc-authors-page/step-29
+
 https://www.freecodecamp.org/learn/back-end-development-and-apis/#basic-node-and-express
