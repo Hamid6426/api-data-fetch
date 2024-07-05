@@ -5,7 +5,8 @@ async function fetchData() {
         const data = await response.json();
         displayData(data);
     } catch (error) {
-        document.getElementById('api-data').innerText = 'Error: fetching data';
+        const errorMessage = 'Error fetching data: ' + error.message;
+        displayError(errorMessage);
         console.error(error);
     }
 }
@@ -14,6 +15,12 @@ async function fetchData() {
 function displayData(data) {
     const apiDataDiv = document.getElementById('api-data');
     apiDataDiv.innerHTML = `<pre>${JSON.stringify(data, null, 2)}</pre>`;
+}
+
+// Function for displaying error if the data is not fetched
+function displayError(errorMessage) {
+    const apiDataDiv = document.getElementById('api-data');
+    apiDataDiv.innerText = errorMessage;
 }
 
 // Call the function
