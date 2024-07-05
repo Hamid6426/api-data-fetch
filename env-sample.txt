@@ -1,6 +1,11 @@
-How will the .env look like
+A sample How will the .env look like
+The keys are provided for assignment in the mail
+
+#######################################
 
 PORT=3000
 API_URL=https://someurl/UsersAquisition/
 ACCESS_TOKEN=some-token-code-123
 CAMPAIGN_ID=some-compaign-id-123
+
+########################################
