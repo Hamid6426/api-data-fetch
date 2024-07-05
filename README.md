@@ -1,4 +1,4 @@
-# api-data-fetch
+# API Data Fetch
 An assignment from MyTokri on internshala where the objective is to fetch data from the specified API endpoint and display it on the client-side.
 
 # Want to Run the Code
